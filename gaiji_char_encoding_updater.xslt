@@ -10,7 +10,7 @@
     ** gaiji_char_encoding_updater.xslt
     **
     ** Written 2021-05-08 by Syd Bauman for the TEI Consortium
-    ** with the help of Duncan Patterson.
+    ** with the help of Duncan Paterson.
     ** Available under the terms of CC BY-SA 4.0.
     **
     ** Read in a TEI P5 document that uses the version 3.6.0 or earlier
